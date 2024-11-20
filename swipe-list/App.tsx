@@ -1,5 +1,4 @@
 import {StyleSheet, Text, View} from 'react-native';
-import {list_data} from "./helpers/constants";
 
 export default function App() {
     return (
